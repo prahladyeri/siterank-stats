@@ -1,3 +1,10 @@
+![pypi](https://img.shields.io/pypi/v/siterank.svg)
+![python](https://img.shields.io/pypi/pyversions/siterank.svg)
+![license](https://img.shields.io/github/license/prahladyeri/siterank-stats.svg)
+[![patreon](https://img.shields.io/badge/Patreon-brown.svg?logo=patreon)](https://www.patreon.com/prahladyeri)
+[![paypal](https://img.shields.io/badge/PayPal-blue.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JM8FUXNFUK6EU)
+[![follow](https://img.shields.io/twitter/follow/prahladyeri.svg?style=social)](https://twitter.com/prahladyeri)
+
 - [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader. [Rank: 134, Tags: blog]
 - [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee. [Rank: 134, Tags: blog]
 - [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business. [Rank: 1960, Tags: webdev]

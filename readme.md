@@ -1,3 +1,13 @@
+
+![pypi](https://img.shields.io/pypi/v/siterank.svg)
+![python](https://img.shields.io/pypi/pyversions/siterank.svg)
+![license](https://img.shields.io/github/license/prahladyeri/siterank-stats.svg)
+[![donate](https://img.shields.io/badge/-Donate-blue.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JM8FUXNFUK6EU)
+[![Patreon](https://img.shields.io/badge/patreon-donate-red.svg?logo=patreon)](https://www.patreon.com/prahladyeri)
+[![follow](https://img.shields.io/twitter/follow/prahladyeri.svg?style=social)](https://twitter.com/prahladyeri)
+
+
+# siterank-stats
 Repository for alexa rankings of sites and blogs across various categories.
 Auto-generated using the [siterank](https://github.com/prahladyeri/siterank) python tool.
     

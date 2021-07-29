@@ -3,4 +3,6 @@ Auto-generated using the [siterank](https://github.com/prahladyeri/siterank) pyt
     
 Click on a category to view ranking statistics:
     
+- [programming_ide](programming_ide.md)
 - [programming](programming.md)
+- [programming_mooc](programming_mooc.md)

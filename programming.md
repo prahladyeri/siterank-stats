@@ -52,5 +52,15 @@
 	[Rank: 933968, Tags: blog]
 - [Ircmaxell's blog](https://blog.ircmaxell.com/) - 
 	[Rank: 1279660, Tags: blog]
+- [Nick Basile](https://nick-basile.com/) - 
+	[Rank: 2284252, Tags: blog]
+- [Tim Hopper](https://tdhopper.com/) - Machine Learning, Photography
+	[Rank: 2655122, Tags: blog]
 - [Prahlad Yeri](https://prahladyeri.com) - Prahlad Yeri's weblog - Educate and Solve problems is my mantra.
 	[Rank: 3494185, Tags: blog]
+- [Joseph Scott's Blog](https://blog.josephscott.org/) - 
+	[Rank: 4939458, Tags: blog]
+- [Ian Bicking - Home Page](https://www.ianbicking.org/) - 
+	[Rank: 4982339, Tags: blog]
+- [A Weird Imagination](https://aweirdimagination.net/) - 
+	[Rank: 6411174, Tags: blog]

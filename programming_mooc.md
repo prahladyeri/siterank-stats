@@ -10,5 +10,7 @@
 	[Rank: 1594, Tags: it courses]
 - [SoloLearn](https://www.sololearn.com) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too!
 	[Rank: 9049, Tags: it courses]
+- [Saylor Academy](https://learn.saylor.org) - Non profit Australian Academy offering various CS courses. Highly recommended!
+	[Rank: 29402, Tags: it courses]
 - [Open2Study](https://www.open2study.com) - Launched in April 2013 by a [collaboration of several Australian universities](http://www.thegoodmooc.com/2013/06/a-review-of-open2study.html). The number of programming specific courses is currently small, but should grow in future considering that they are more leaning towards career-oriented than core academic courses.
 	[Rank: 984290, Tags: it courses]

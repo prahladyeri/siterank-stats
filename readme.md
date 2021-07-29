@@ -4,5 +4,5 @@ Auto-generated using the [siterank](https://github.com/prahladyeri/siterank) pyt
 Click on a category to view ranking statistics:
     
 - [programming](programming.md)
-- [programming_ide](programming_ide.md)
-- [programming_mooc](programming_mooc.md)
+- [programming/ide](programming_ide.md)
+- [programming/mooc](programming_mooc.md)

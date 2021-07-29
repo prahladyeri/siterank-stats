@@ -2,8 +2,8 @@
 ![pypi](https://img.shields.io/pypi/v/siterank.svg)
 ![python](https://img.shields.io/pypi/pyversions/siterank.svg)
 ![license](https://img.shields.io/github/license/prahladyeri/siterank-stats.svg)
-[![paypal](https://img.shields.io/badge/PayPal-donate-blue.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JM8FUXNFUK6EU)
-[![patreon](https://img.shields.io/badge/Patreon-donate-red.svg?logo=patreon)](https://www.patreon.com/prahladyeri)
+[![paypal](https://img.shields.io/badge/PayPal-blue.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JM8FUXNFUK6EU)
+[![patreon](https://img.shields.io/badge/Patreon-red.svg?logo=patreon)](https://www.patreon.com/prahladyeri)
 [![follow](https://img.shields.io/twitter/follow/prahladyeri.svg?style=social)](https://twitter.com/prahladyeri)
 
 

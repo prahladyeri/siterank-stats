@@ -1,3 +1,0 @@
-- [microsoft/vscode](https://github.com/microsoft/vscode) - This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript. [Rank: 84, Tags: ide]
-- [atom/atom](https://github.com/atom/atom) - Similar to VSCode, Atom is another JavaScript editor, quite popular these days. [Rank: 84, Tags: ide]
-- [Netbeans](https://netbeans.apache.org/) - The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation. [Rank: 2211, Tags: ide]

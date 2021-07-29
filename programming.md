@@ -5,7 +5,6 @@
 - [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS. [Rank: 6089, Tags: blog,webdev]
 - [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more. [Rank: 6388, Tags: tutorials]
 - [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers. [Rank: 9265, Tags: blog]
-- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. [Rank: 12403, Tags: blog,webdev,web design]
 - [hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community. [Rank: 13037, Tags: blog]
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers [Rank: 18110, Tags: blog]
 - [Alvina Alexander](https://alvinalexander.com/) - Java, Scala, Unix, MacOS Tutorials [Rank: 43962, Tags: blog]

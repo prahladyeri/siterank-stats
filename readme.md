@@ -9,6 +9,6 @@ Auto-generated using the [siterank](https://github.com/prahladyeri/siterank) pyt
     
 Click on a category to view ranking statistics:
     
+- [computers](<md/computers.md>)
 - [freelance](<md/freelance.md>)
 - [open source](<md/open source.md>)
-- [programming](<md/programming.md>)

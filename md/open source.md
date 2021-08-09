@@ -18,6 +18,7 @@
 - [Planet Linux Kernel](http://planet.kernel.org/) -  [Rank: 43799, Tags: blog]
 - [Phoronix](https://www.phoronix.com/) - To keep up with the hardware stuff [Rank: 56463, Tags: blog]
 - [Open Source Consortium (OSI)](https://opensource.org) - Global non-profit: promotes and protects open source software, development & communities through education and advocacy. [Rank: 68774, Tags: blog]
+- [Free Software Foundation (FSF)](https://www.fsf.org/) - Fighting for essential rights and freedoms for computer users since 1985. [Rank: 97888, Tags: blog]
 - [Fedora Magazine](https://fedoramagazine.org/) -  [Rank: 311540, Tags: blog]
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) -  [Rank: 548863, Tags: blog]
 - [Lxer](http://lxer.com/) -  [Rank: 655011, Tags: blog]

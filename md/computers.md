@@ -5,6 +5,29 @@
 
 - [PCHelpForum](https://pchelpforum.net) -  [Rank: 791732, Tags: forum,pc]
 
+**open source**
+
+- [Planet Mozilla](http://planet.mozilla.org/) -  [Rank: 212, Tags: blog]
+- [Python Software Foundation (PSF)](https://www.python.org/psf/) - PSF is the non-profit organization behind the Python programming language. [Rank: 1254, Tags: blog]
+- [Apache Software Foundation (ASF)](https://www.apache.org/) - The world's largest Open Source foundation provides $22B+ worth of software for the public good at 100% no cost. [Rank: 2178, Tags: blog]
+- [Red Hat Developer Blog](https://developerblog.redhat.com/) -  [Rank: 3013, Tags: blog]
+- [Planet Arch Linux](https://planet.archlinux.org/) -  [Rank: 7416, Tags: blog]
+- [GNU (GNU is Not Unix)](https://www.gnu.org) - Freedom movement started by Dr. Richard Stallman (RMS) [Rank: 14126, Tags: blog]
+- [Electronic Frontier Foundation (EFF)](https://www.eff.org/) - We defend your civil liberties in a digital world. [Rank: 15727, Tags: blog]
+- [Planet GNOME](https://planet.gnome.org/) -  [Rank: 16677, Tags: blog]
+- [Qt blog](http://blog.qt.io/) -  [Rank: 18268, Tags: blog]
+- [Linux Foundation](https://www.linuxfoundation.org/) - A nonprofit organization enabling mass innovation through open source. [Rank: 22932, Tags: blog]
+- [Planet KDE](https://planet.kde.org/) -  [Rank: 29501, Tags: blog]
+- [OMG Ubuntu](https://www.omgubuntu.co.uk/) -  [Rank: 35128, Tags: blog]
+- [Planet Linux Kernel](http://planet.kernel.org/) -  [Rank: 43221, Tags: blog]
+- [Phoronix](https://www.phoronix.com/) - To keep up with the hardware stuff [Rank: 56937, Tags: blog]
+- [Open Source Consortium (OSI)](https://opensource.org) - Global non-profit: promotes and protects open source software, development & communities through education and advocacy. [Rank: 69000, Tags: blog]
+- [Free Software Foundation (FSF)](https://www.fsf.org/) - Fighting for essential rights and freedoms for computer users since 1985. [Rank: 99074, Tags: blog]
+- [Fedora Magazine](https://fedoramagazine.org/) -  [Rank: 311780, Tags: blog]
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) -  [Rank: 580207, Tags: blog]
+- [Lxer](http://lxer.com/) -  [Rank: 656775, Tags: blog]
+- [Producing Open Source Software](https://producingoss.com/) - Karl Fogel's free book covering all aspects of open source project management. [Rank: 6919252, Tags: book,foss]
+
 **programming**
 
 - [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business. [Rank: 2040, Tags: webdev]
@@ -53,7 +76,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript. [Rank: 84, Tags: ide]
 - [atom/atom](https://github.com/atom/atom) - Similar to VSCode, Atom is another JavaScript editor, quite popular these days. [Rank: 84, Tags: ide]
 - [Netbeans](https://netbeans.apache.org/) - The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation. [Rank: 2178, Tags: ide]
-- [Eclipse](https://eclipse.org) - Another Java veteran's IDE, a strong competitor to Netbeans. [Rank: 11924, Tags: ide,java]
 
 **programming/mooc**
 

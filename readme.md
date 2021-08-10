@@ -11,4 +11,3 @@ Click on a category to view ranking statistics:
     
 - [computers](<md/computers.md>)
 - [freelance](<md/freelance.md>)
-- [open source](<md/open source.md>)

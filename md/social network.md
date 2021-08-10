@@ -7,5 +7,6 @@
 - [Facebook](https://www.facebook.com/) - The pioneer in social networking, has the strongest networking effect. [Rank: 7, Tags: general]
 - [Reddit](https://www.reddit.com) - Highly popular social networking site based on simple design and primarily focusing on textual content. [Rank: 19, Tags: social]
 - [Twitter](https://twitter.com/) - Focuses on micro-blogging posts called "tweets", popular with entrepreneurs and businesses. [Rank: 38, Tags: micro-blogging]
+- [Linkedin](https://www.linkedin.com/) - Geared towards professional interaction and work related stuff. [Rank: 48, Tags: professionals]
 - [Quora](https://www.quora.com/) - Q/A based popular social networking site [Rank: 351, Tags: qa]
 

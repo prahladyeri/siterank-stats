@@ -94,7 +94,6 @@
 - [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here. [Rank: 9453, Tags: other]
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry. [Rank: 42717, Tags: other]
 - [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets) - A great source of published data in case you are developing an app. [Rank: 44394, Tags: other]
-- [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app. [Rank: 446034, Tags: other]
 
 **programming/quiz**
 

@@ -4,7 +4,7 @@
 [![follow](https://img.shields.io/twitter/follow/prahladyeri.svg?style=social)](https://twitter.com/prahladyeri)
 
 ---
-- [NDTV Food](https://food.ndtv.com/) - Yet another food blog [Rank: 338, Tags: veggies]
-- [Food Viva](https://foodviva.com/) - Food blog, specializing in North Indian Dals and Subzis. [Rank: 120757, Tags: dal]
-- [Sprout Monk](https://sproutmonk.com/) - Useful food tips and guides, specializing in Dal (Indian Lentil Soup) niche. [Rank: 1043952, Tags: dal, tadka]
+- [NDTV Food](https://food.ndtv.com/) - Yet another food blog [Rank: 337, Tags: veggies]
+- [Food Viva](https://foodviva.com/) - Food blog, specializing in North Indian Dals and Subzis. [Rank: 123575, Tags: dal]
+- [Sprout Monk](https://sproutmonk.com/) - Useful food tips and guides, specializing in Dal (Indian Lentil Soup) niche. [Rank: 1005547, Tags: dal, tadka]
 

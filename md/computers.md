@@ -22,6 +22,7 @@
 - [OMG Ubuntu](https://www.omgubuntu.co.uk/) -  [Rank: 39202, Tags: blog]
 - [Planet Linux Kernel](http://planet.kernel.org/) -  [Rank: 47219, Tags: blog]
 - [Phoronix](https://www.phoronix.com/) - To keep up with the hardware stuff [Rank: 73228, Tags: blog]
+- [Open Source Consortium (OSI)](https://opensource.org) - Global non-profit: promotes and protects open source software, development & communities through education and advocacy. [Rank: 78773, Tags: blog]
 - [Free Software Foundation (FSF)](https://www.fsf.org/) - Fighting for essential rights and freedoms for computer users since 1985. [Rank: 156122, Tags: blog]
 - [Fedora Magazine](https://fedoramagazine.org/) -  [Rank: 300862, Tags: blog]
 - [Lxer](http://lxer.com/) -  [Rank: 470523, Tags: blog]

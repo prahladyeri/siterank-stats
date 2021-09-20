@@ -58,7 +58,6 @@
 - [Oliver Marshall](https://olivermarshall.net/) -  [Rank: 1286337, Tags: blog]
 - [Ircmaxell's blog](https://blog.ircmaxell.com/) -  [Rank: 1398605, Tags: blog]
 - [Nick Basile](https://nick-basile.com/) -  [Rank: 2435867, Tags: blog]
-- [prahladyeri.com](https://prahladyeri.com) - Prahlad Yeri's weblog - Educate and Solve problems is my mantra. [Rank: 2536082, Tags: blog,portfolio]
 - [Joseph Scott's Blog](https://blog.josephscott.org/) -  [Rank: 2627938, Tags: blog]
 - [Tim Hopper](https://tdhopper.com/) - Machine Learning, Photography [Rank: 5075999, Tags: blog]
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/) -  [Rank: 6604321, Tags: blog]

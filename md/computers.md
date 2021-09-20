@@ -58,6 +58,7 @@
 - [Oliver Marshall](https://olivermarshall.net/) -  [Rank: 1286337, Tags: blog]
 - [Ircmaxell's blog](https://blog.ircmaxell.com/) -  [Rank: 1398605, Tags: blog]
 - [Nick Basile](https://nick-basile.com/) -  [Rank: 2435867, Tags: blog]
+- [prahladyeri.com](https://prahladyeri.com) - Prahlad Yeri's weblog - Educate and Solve problems is my mantra. [Rank: 2536082, Tags: blog,portfolio]
 - [Joseph Scott's Blog](https://blog.josephscott.org/) -  [Rank: 2627938, Tags: blog]
 - [Tim Hopper](https://tdhopper.com/) - Machine Learning, Photography [Rank: 5075999, Tags: blog]
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/) -  [Rank: 6604321, Tags: blog]
@@ -75,7 +76,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript. [Rank: 92, Tags: ide]
 - [atom/atom](https://github.com/atom/atom) - Similar to VSCode, Atom is another JavaScript editor, quite popular these days. [Rank: 92, Tags: ide]
 - [Netbeans](https://netbeans.apache.org/) - The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation. [Rank: 2047, Tags: ide]
-- [Eclipse](https://eclipse.org) - Another Java veteran's IDE, a strong competitor to Netbeans. [Rank: 11202, Tags: ide,java]
 
 **programming/mooc**
 

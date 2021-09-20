@@ -12,11 +12,11 @@
 - [Medium](https://medium.com/) - Geared towards blog posting, pioneered subscription based monetization model. [Rank: 144, Tags: ]
 - [Quora](https://www.quora.com/) - Q/A based popular social networking site [Rank: 374, Tags: qa]
 - [Slashdot](https://slashdot.org/) - An old school social networking forum, at least as old as reddit. [Rank: 5075, Tags: ]
+- [Hacker News](https://news.ycombinator.com) - Social Newtwork geared towards programmers and technical folk. [Rank: 6104, Tags: tech]
 - [Mastodon.Social](https://mastodon.social/) - Decentralized social networking site. [Rank: 26548, Tags: decentralized]
 - [Ruqqus.com](https://ruqqus.com/) - Social Network geared towards right wing and conservative folks. [Rank: 61343, Tags: ]
 - [Saidit](https://saidit.net/) - Forked out of open source Reddit when back in the days when it decided to go proprietary. [Rank: 105939, Tags: ]
 - [Hubski](https://hubski.com/) - Yet another social networking site. [Rank: 185891, Tags: ]
 - [Lemmy.ml](https://lemmy.ml/) - Yet another social network. [Rank: 422653, Tags: ]
 - [Raddle](https://raddle.me/) - Social Network geared towards socialist and communist folks. [Rank: 470896, Tags: ]
-- [tildes.net](https://tildes.net/) - Inspired by Reddit but highly minimalist and presently invite-only. [Rank: 1325520, Tags: ]
 

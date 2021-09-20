@@ -76,6 +76,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript. [Rank: 92, Tags: ide]
 - [atom/atom](https://github.com/atom/atom) - Similar to VSCode, Atom is another JavaScript editor, quite popular these days. [Rank: 92, Tags: ide]
 - [Netbeans](https://netbeans.apache.org/) - The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation. [Rank: 2047, Tags: ide]
+- [Eclipse](https://eclipse.org) - Another Java veteran's IDE, a strong competitor to Netbeans. [Rank: 11202, Tags: ide,java]
 
 **programming/mooc**
 
@@ -98,7 +99,6 @@
 **programming/quiz**
 
 - [Khan Academy - video lessons](https://www.khanacademy.org/) - Good for learning *HTML/CSS* - both practice tests and video sessions. [Rank: 878, Tags: quiz]
-- [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive. [Rank: 16164, Tags: quiz]
 - [CodingBat - python and java](https://codingbat.com/) - Coding puzzles and problems in *python* and *java*. [Rank: 68951, Tags: quiz]
 - [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level. [Rank: 83100, Tags: quiz]
 - [Advent of code](https://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in. [Rank: 304442, Tags: quiz]

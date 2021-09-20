@@ -17,7 +17,6 @@
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/) - We defend your civil liberties in a digital world. [Rank: 15914, Tags: blog]
 - [Planet GNOME](https://planet.gnome.org/) -  [Rank: 19348, Tags: blog]
 - [Qt blog](http://blog.qt.io/) -  [Rank: 20803, Tags: blog]
-- [Linux Foundation](https://www.linuxfoundation.org/) - A nonprofit organization enabling mass innovation through open source. [Rank: 22342, Tags: blog]
 - [Planet KDE](https://planet.kde.org/) -  [Rank: 31872, Tags: blog]
 - [OMG Ubuntu](https://www.omgubuntu.co.uk/) -  [Rank: 39202, Tags: blog]
 - [Planet Linux Kernel](http://planet.kernel.org/) -  [Rank: 47219, Tags: blog]

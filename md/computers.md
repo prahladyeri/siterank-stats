@@ -13,7 +13,6 @@
 - [Apache Software Foundation (ASF)](https://www.apache.org/) - The world's largest Open Source foundation provides $22B+ worth of software for the public good at 100% no cost. [Rank: 2047, Tags: blog]
 - [Red Hat Developer Blog](https://developerblog.redhat.com/) -  [Rank: 3025, Tags: blog]
 - [Planet Arch Linux](https://planet.archlinux.org/) -  [Rank: 8202, Tags: blog]
-- [GNU (GNU is Not Unix)](https://www.gnu.org) - Freedom movement started by Dr. Richard Stallman (RMS) [Rank: 14039, Tags: blog]
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/) - We defend your civil liberties in a digital world. [Rank: 15914, Tags: blog]
 - [Planet GNOME](https://planet.gnome.org/) -  [Rank: 19348, Tags: blog]
 - [Qt blog](http://blog.qt.io/) -  [Rank: 20803, Tags: blog]
@@ -61,6 +60,7 @@
 - [prahladyeri.com](https://prahladyeri.com) - Prahlad Yeri's weblog - Educate and Solve problems is my mantra. [Rank: 2536082, Tags: blog,portfolio]
 - [Joseph Scott's Blog](https://blog.josephscott.org/) -  [Rank: 2627938, Tags: blog]
 - [Tim Hopper](https://tdhopper.com/) - Machine Learning, Photography [Rank: 5075999, Tags: blog]
+- [Bruce Eckel's Blog](https://www.bruceeckel.com/) -  [Rank: 6604321, Tags: blog]
 - [A Weird Imagination](https://aweirdimagination.net/) -  [Rank: 8732987, Tags: blog]
 
 **programming/help**
@@ -84,6 +84,7 @@
 - [edx.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now. [Rank: 891, Tags: it courses]
 - [Free Code Camp](https://www.freecodecamp.org/) - Fun and gamified way of learning web development. You can even try this if you already are a programmer and just want to exercise your coding muscles. [Rank: 1353, Tags: it courses]
 - [Stanford Online](http://online.stanford.edu/) - Another great university that provisions learning content through the online channel. Again, no certificates, but still great course content. [Rank: 1431, Tags: it courses]
+- [SoloLearn](https://www.sololearn.com) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too! [Rank: 9411, Tags: it courses]
 - [Saylor Academy](https://learn.saylor.org) - Non profit Australian Academy offering various CS courses. Highly recommended! [Rank: 29629, Tags: it courses]
 - [Open2Study](https://www.open2study.com) - Launched in April 2013 by a [collaboration of several Australian universities](http://www.thegoodmooc.com/2013/06/a-review-of-open2study.html). The number of programming specific courses is currently small, but should grow in future considering that they are more leaning towards career-oriented than core academic courses. [Rank: 821626, Tags: it courses]
 

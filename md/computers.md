@@ -61,7 +61,6 @@
 - [prahladyeri.com](https://prahladyeri.com) - Prahlad Yeri's weblog - Educate and Solve problems is my mantra. [Rank: 2536082, Tags: blog,portfolio]
 - [Joseph Scott's Blog](https://blog.josephscott.org/) -  [Rank: 2627938, Tags: blog]
 - [Tim Hopper](https://tdhopper.com/) - Machine Learning, Photography [Rank: 5075999, Tags: blog]
-- [Bruce Eckel's Blog](https://www.bruceeckel.com/) -  [Rank: 6604321, Tags: blog]
 - [A Weird Imagination](https://aweirdimagination.net/) -  [Rank: 8732987, Tags: blog]
 
 **programming/help**
@@ -85,7 +84,6 @@
 - [edx.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now. [Rank: 891, Tags: it courses]
 - [Free Code Camp](https://www.freecodecamp.org/) - Fun and gamified way of learning web development. You can even try this if you already are a programmer and just want to exercise your coding muscles. [Rank: 1353, Tags: it courses]
 - [Stanford Online](http://online.stanford.edu/) - Another great university that provisions learning content through the online channel. Again, no certificates, but still great course content. [Rank: 1431, Tags: it courses]
-- [SoloLearn](https://www.sololearn.com) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too! [Rank: 9411, Tags: it courses]
 - [Saylor Academy](https://learn.saylor.org) - Non profit Australian Academy offering various CS courses. Highly recommended! [Rank: 29629, Tags: it courses]
 - [Open2Study](https://www.open2study.com) - Launched in April 2013 by a [collaboration of several Australian universities](http://www.thegoodmooc.com/2013/06/a-review-of-open2study.html). The number of programming specific courses is currently small, but should grow in future considering that they are more leaning towards career-oriented than core academic courses. [Rank: 821626, Tags: it courses]
 
@@ -99,6 +97,7 @@
 **programming/quiz**
 
 - [Khan Academy - video lessons](https://www.khanacademy.org/) - Good for learning *HTML/CSS* - both practice tests and video sessions. [Rank: 878, Tags: quiz]
+- [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive. [Rank: 16164, Tags: quiz]
 - [CodingBat - python and java](https://codingbat.com/) - Coding puzzles and problems in *python* and *java*. [Rank: 68951, Tags: quiz]
 - [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level. [Rank: 83100, Tags: quiz]
 - [Advent of code](https://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in. [Rank: 304442, Tags: quiz]
